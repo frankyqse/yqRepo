@@ -5,6 +5,6 @@ int main(){
 	printf("in gihub fork 3");
 	int a = 1,b = 2;
 	int c = a + b;
-	printf("c = " + c + "/t");
+	printf("c = " + c  + "/t");
 }
 
