@@ -8,6 +8,7 @@ int main(){
 	int c = a + b;
 	int dd = 100;
 	int e= 101;
+	int f = 102;
 	printf("c = " + c + "/n/n");
 	printf("c = "  a + b );
 }
