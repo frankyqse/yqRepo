@@ -6,6 +6,6 @@ int main(){
 	int a = 1,b = 2;
 	int c a + b;
 	printf("c = " + c + "/n/n");
-	printf("c = " a + b );
+	printf("c = "  a + b );
 }
 
