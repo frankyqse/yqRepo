@@ -1,4 +1,4 @@
-<！DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -7,6 +7,7 @@
 <body>
 <?php
 echo "this is a php page";
+phpinfo();
 ?>
 </body>
 </html>
