@@ -11,7 +11,7 @@
 <?php
 echo "this is a php page";
 phpinfo();
- 
+echo "add on github"
 ?>
  <p id="#date"></p>
 </body>
