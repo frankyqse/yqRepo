@@ -2,6 +2,6 @@
 
 int main(){
 	printf("hello world!/n");	
-	printf("in gihub fork 1");
+	printf("in gihub fork  1");
 }
 
