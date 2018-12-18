@@ -9,6 +9,7 @@ int main(){
 	int dd = 100;
 	int e= 101;
 	int f = 102;
+ 	int g = 103;//added by taptop 
 	printf("c = " + c + "/n/n");
 	printf("c = "  a + b );
 }
