@@ -1,2 +1,0 @@
-i am 2.txt ,i was also added in git
-
